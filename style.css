@@ -265,7 +265,7 @@ Add text to your image and control text-box location*/
 /*  - Parallax -
 This code controls that cool parallax image and scrolling effect. Change the image "parallax.jpg" below to match your asset.*/
 .parallax {
-    background-image: url("horizon.JPG");
+    background-image: url("hero.jpg");
 /* Set a specific height */
     height: 500px;
 /* control the parallax scrolling effect */
